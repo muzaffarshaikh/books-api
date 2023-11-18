@@ -1,0 +1,25 @@
+{
+  "id": "4a388b8a-74d3-46d9-ba7b-9a27f3b91a83",
+  "isbn": "0747532699",
+  "isbn13": "9780747532699",
+  "title": "The Philosophers Stone",
+  "author": {
+    "id": "4a388b8a-74d3-46d9-ba7b-9a27f3b91a83",
+    "name": "J.K. Rowling"
+  },
+  "price": {
+    "currency": "INR",
+    "amount": 353
+  },
+  "pages": 253,
+  "language": "English",
+  "coverPhotoURL": "https://www.google.com",
+  "wikipediaURL": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone",
+  "type": "Novel",
+  "publicationDate": "26 June 1997",
+  "series": {
+    "id": "4a388b8a-74d3-46d9-ba7b-9a27f3b91a83",
+    "name": "Harry Potter"
+  },
+  "description": "Harry Potter, an eleven-year-old orphan, discovers that he is a wizard and is invited to study at Hogwarts. Even as he escapes a dreary life and enters a world of magic, he finds trouble awaiting him."
+}
