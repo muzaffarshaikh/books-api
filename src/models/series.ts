@@ -1,8 +1,10 @@
 import { JsonObject, JsonProperty } from 'typescript-json-serializer';
-import Request from './request';
 
 @JsonObject()
-export default class Response extends Request {
+export default class Series {
   @JsonProperty({ name: 'id' })
   private id!: string;
+
+  @JsonProperty({ name: 'name' })
+  private name!: string;
 }

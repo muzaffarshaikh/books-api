@@ -14,6 +14,14 @@
     "alwaysStrict": true,
     "types": ["reflect-metadata", "node", "jest"],
     "moduleResolution": "node",
+    "baseUrl": "./",
+    "paths": {
+      "@controllers/*": ["src/controllers/*"],
+      "@dto/*": ["src/dto/*"],
+      "@services/*": ["src/services/*"],
+      "@repositories/*": ["src/repositories/*"],
+      "@models/*": ["src/models/*"]
+    }
   },
   "include": ["src/**/*"],
   "exclude": ["node_modules", "**/*.test.ts"]
